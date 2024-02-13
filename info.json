@@ -97,7 +97,7 @@
                     "benefit5": "tax exemption from oversea income"
                 }
             ],
-            "type4: [
+            "type4": [
                 {
                     "name": "Highly-Skilled Professionals",
                     "requirement1": [
@@ -187,7 +187,7 @@
             ],
             "type5":[
                 {
-                    "name": "The dependents",
+                    "name": "Dependents",
                     "limit": "Maximum 4 dependents in total per one LTR visa holder",
                     "requirement1": "Spouse and children under 20 years old relate to LTR visa holders",
                     "requirement2": [
