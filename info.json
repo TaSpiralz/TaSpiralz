@@ -2,14 +2,14 @@
     "general": "I am a bot that helps provide Smart visa and LTR visa information.",
     "visa1": [
         {
-        "name": "LTR visa (Long-Term Residents visa Thailand)",
-        "type1": [
+            "name": "LTR visa (Long-Term Residents visa Thailand)",
+            "type1": [
                 {
                     "name": "Wealthy Global Citizen",
                     "requirement1": "Financial status including domestic and foreign assets at least USD 1 million",
                     "requirement2": "An average personal income of at least USD 80,000 per year for two years before the date of application",
                     "requirement3": "Investment of at least USD 500,000 in the name of the applicant",
-                    "requirement4": [
+                    "requirement4":[
                         {
                             "choice1": "A health insurance policy covering medical expenses in Thailand of at least USD 50,000 with a remaining coverage period of at least 10 months as of the date of the letter of qualification endorsement issuance",
                             "choice2": "Social security benefits insuring treatment in Thailand",
