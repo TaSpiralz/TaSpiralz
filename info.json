@@ -6,10 +6,17 @@
         "type1": [
                 {
                     "name": "Wealthy Global Citizen",
-                    "requirement1": "At least USD 1 million in assets (This include investment in Thailand)",
-                    "requirement2": "Personal income of a minimum of USD 80,000/ year in the past two years",
-                    "requirement3": "Investment of at least USD 500,000 in Thai government bonds, foreign direct investment, or Thai property",
-                    "requirement4": "Health insurance with at least USD 50,000 coverage or social security benefits insuring treatment in Thailand or at least USD 100,000 deposit",
+                    "requirement1": "Financial status including domestic and foreign assets at least USD 1 million",
+                    "requirement2": "An average personal income of at least USD 80,000 per year for two years before the date of application",
+                    "requirement3": "Investment of at least USD 500,000 in the name of the applicant",
+                    "requirement4": [
+                        {
+                            "choice1": "A health insurance policy covering medical expenses in Thailand of at least USD 50,000 with a remaining coverage period of at least 10 months as of the date of the letter of qualification endorsement issuance",
+                            "choice2": "Social security benefits insuring treatment in Thailand",
+                            "choice3": "A deposit balance of at least USD 100,000 in a bank account in Thailand or abroad retained for at least 12 months as of the date of application"
+                        }
+                    ],
+                    "requirement5": "Not possess prohibited characteristics pursuant to the laws on immigration",
                     "benefit1": "10 years renewable visa",
                     "benefit2": "Exemption from 4 Thais : 1 foreigner employment requirement ratio",
                     "benefit3": "90-day report extended to 1-year report and exemption of re-entry permit",
@@ -22,9 +29,21 @@
             "type2": [
                 {
                     "name": "Wealthy Pensioners",
-                    "requirement1": "Personal income of at least USD 80,000/year at the time of application or In case of personal income below USD 80,000/year but no less than USD 40,000/year, applicants must invest at least USD 250,000 in Thai government bonds, foreign direct investment, or Thai property",
-                    "requirement2": "Health insurance with at least USD 50,000 coverage or social security benefits insuring treatment in Thailand or at least USD 100,000 deposit",
-                    "requirement3": "Be 50 years old or over and retired at the time of application"
+                    "requirement1": [
+                        {
+                            "choice1": "Personal income of at least USD 80,000 per year at the time of application",
+                            "choice2": "In case of personal income below USD 80,000 per year but no less than USD 40,000 per year at the time of application, an applicant must invest at least USD 250,000"
+                        }
+                    ],
+                    "requirement2": [
+                        {
+                            "choice1": "A health insurance policy covering medical expenses in Thailand of at least USD 50,000 with a remaining coverage period of at least 10 months as of the date of the letter of qualification endorsement issuance",
+                            "choice2": "Social security benefits insuring treatment in Thailand",
+                            "choice3": "A deposit balance of at least USD 100,000 in a bank account in Thailand or abroad retained for at least 12 months as of the date of application"
+                        }
+                    ],
+                    "requirement3": "Be 50 years old or over and retired at the time of application",
+                    "requirement4": "Not possess prohibited characteristics pursuant to the laws on immigration",
                     "benefit1": "10 years renewable visa",
                     "benefit2": "Exemption from 4 Thais : 1 foreigner employment requirement ratio",
                     "benefit3": "90-day report extended to 1-year report and exemption of re-entry permit",
@@ -33,7 +52,161 @@
                     "benefit6": "tax exemption from oversea income",
                     "benefit7": "Permission to work in Thailand (Digital Work Permit)"
                 }
-            ]
+            ],
+            "type3": [
+                {
+                    "name": "Work-from-Thailand Professionals",
+                    "requirement1": [
+                        {
+                            "choice1": "An average personal income of at least USD 80,000 per year for two years before the date of application",
+                            "choice2": [
+                                {
+                                    "status": "In case of an average personal income below USD 80,000 per year but no less than USD 40,000 per year in two years before the date of application",
+                                    "subchoice1": "Have a Master’s degree or higher",
+                                    "subchoice2": "Own intellectual property",
+                                    "subchoice3": "Receive Series A funding (financing of a start-up during the growth phase after the seed-funding round of at least USD 1 million)"
+                                }
+                            ]
+                        }
+                    ],
+                    "requirement2": [
+                        {
+                            "employer":
+                            [
+                                {
+                                    "status": "Must not conduct any business in Thailand",
+                                    "choice1": "Public company on any stock exchange in any country",
+                                    "choice2": "private company in operation for at least three years with combined revenue at least USD 150 million over 3 years as of the date of application"
+                                }
+                            ]
+                        }
+                    ],
+                    "requirement3": "At least 5 years of work experience in the relevant fields of the current employment over the past 10 years as of the date of application",
+                    "requirement4": [
+                        {
+                            "choice1": "A health insurance policy covering medical expenses in Thailand of at least USD 50,000 with a remaining coverage period of at least 10 months as of the date of the letter of qualification endorsement issuance",
+                            "choice2": "Social security benefits insuring treatment in Thailand",
+                            "choice3": "A deposit balance of at least USD 100,000 in a bank account in Thailand or abroad retained for at least 12 months as of the date of application"
+                        }
+                    ],
+                    "requirement5": "Not possess prohibited characteristics pursuant to the laws on immigration",
+                    "benefit1": "10 years renewable visa",
+                    "benefit2": "90-day report extended to 1-year report and exemption of re-entry permit",
+                    "benefit3": "Fast Track Service at International Airports in Thailand",
+                    "benefit4": "Immigration and work permit facilitation services at One Stop Service Center for Visa and Work Permit",
+                    "benefit5": "tax exemption from oversea income"
+                }
+            ],
+            "type4: [
+                {
+                    "name": "Highly-Skilled Professionals",
+                    "requirement1": [
+                        {
+                            "choice1": "An average personal income of at least USD 80,000 per year for two years before the date of application",
+                            "choice2": "No minimum personal income for professionals working for Thai government agencies",
+                            "choice3": [
+                                {
+                                    "status": "In case of personal income below an average personal income of at least USD 40,000 per year in two years before the date of application",
+                                    "subchoice1": "Have a Master’s degree or equivalent or higher in science and technology",
+                                    "subchoice2": "Special expertise relevant to the job assignment in Thailand"
+                                }
+                            ]
+                        }
+                    ],
+                    "requirement2": [
+                        {
+                            "employer": [
+                                {
+                                    "status": "Conduct any business in Thailand",
+                                    "choice1": "Business in any targeted industries",
+                                    "choice2": "Higher education institution, research institution, specialized training institution",
+                                    "choice3": "Thai government agency"
+                                }
+                            ]
+                        }
+                    ],
+                    "requirement3": [
+                        {
+                            "experience": "At least 5 years of work experience in the targeted industries over the past 10 years as of the date of application",
+                            "exception": [
+                                {
+                                    "choice1": "Have a PhD or higher in the relevant fields of the targeted industries",
+                                    "choice2": "Working for Thai government agencies"
+                                }
+                            ]
+                        }
+                    ],
+                    "requirement4": [
+                        {
+                            "choice1": "A health insurance policy covering medical expenses in Thailand of at least USD 50,000 with a remaining coverage period of at least 10 months as of the date of the letter of qualification endorsement issuance",
+                            "choice2": "Social security benefits insuring treatment in Thailand",
+                            "choice3": "A deposit balance of at least USD 100,000 in a bank account in Thailand or abroad retained for at least 12 months as of the date of application"
+                        }
+                    ],
+                    "requirement5": "Not possess prohibited characteristics pursuant to the laws on immigration",
+                    "benefit1": "10 years renewable visa",
+                    "benefit2": "Exemption from 4 Thais : 1 foreigner employment requirement ratio",
+                    "benefit3": "90-day report extended to 1-year report and exemption of re-entry permit",
+                    "benefit4": "Fast Track Service at International Airports in Thailand",
+                    "benefit5": "Immigration and work permit facilitation services at One Stop Service Center for Visa and Work Permit",
+                    "benefit6": "Permission to work in Thailand (Digital Work Permit)",
+                    "benefit7": "17% Personal income tax rate",
+                    "target": [
+                        {
+                            "industry1": "Automotive Industry",
+                            "industry2": "Electronics Industry",
+                            "industry3": "Affluent Tourism Industry",
+                            "industry4": "Agriculture, food, and biotechnology industry",
+                            "industry5": "Transportation and logistics industry",
+                            "industry6": "Automation and robotics industry",
+                            "industry7": "Aviation, aerospace, and spaceindustry",
+                            "industry8": "Biofuels and bio-chemical industry",
+                            "industry9": "Petrochemical and Chemical Industry",
+                            "industry10": "Digital industry",
+                            "industry11": "Medical industry",
+                            "industry12": "National defense industry",
+                            "industry13": "Direct and significant supporting industries for the circular economy, e.g fuel productionfrom wastesor water resource management, etc.",
+                            "industry14": "International Business Center (IBC)",
+                            "industry15": [
+                                {
+                                    "name": "Other industries in which the foreign applicants for the qualification endorsement must work with specialexpertise in one or more of the following areas",
+                                    "expertise1": "Research and development in targeted industries or technologies, such as Biotechnology, Nanotechnology, Advanced Material Technology, Digital Technology",
+                                    "expertise2": "Human resource development in science and technology at vocational or higher education levels",
+                                    "expertise3": "Application of artificial intelligence, automation, and robotics in business operations",
+                                    "expertise4": "Planning and development of digital systems to enhance business productivity and services",
+                                    "expertise5": "Financial or Marketing Analyst or Advisory Services",
+                                    "expertise6": "Environmental and energy management",
+                                    "expertise7": "Management or Advisory of incubation programs, acceleration programs, innovation,and startup ecosystems",
+                                    "expertise8": "Alternative dispute resolution services",
+                                    "expertise9": "Promotion and support of economic development, trade, and investment by foreign chambers of commerce and organizations promoting trade and investment from foreign countries"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "type5":[
+                {
+                    "name": "The dependents",
+                    "limit": "Maximum 4 dependents in total per one LTR visa holder",
+                    "requirement1": "Spouse and children under 20 years old relate to LTR visa holders",
+                    "requirement2": [
+                        {
+                            "choice1": "A health insurance policy covering medical expenses in Thailand of at least USD 50,000 with a remaining coverage period of at least 10 months as of the date of the letter of qualification endorsement issuance",
+                            "choice2": "Social security benefits insuring treatment in Thailand",
+                            "choice3": "A deposit balance of at least USD 100,000 in a bank account in Thailand or abroad retained for at least 12 months as of the date of application"
+                        }
+                    ],
+                    "requirement3": "Not possess prohibited characteristics pursuant to the laws on immigration" 
+                }
+            ],
+            "investment": [
+                {
+                    "invest1": "Thai Government bonds issued by the Ministry of Finance with a remaining time to maturity of at least 5 years as of the date of application",
+                    "invest2": "Direct investment in a private limited company or public limited company or investment in a venture capital company or a private equity trust company registered with the Securities and Exchange Commission or certified by the relevant authorities",
+                    "invest3": "Thai property"
+                }
+            ],
         }
     ],
     
