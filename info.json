@@ -237,12 +237,12 @@
                         {
                             "event1": "After receiving complete and valid documents, the application will be registered and sent for the qualifications endorsement by relevant agencies (such as Immigration, Thailand’s Board of Investment, Department of Consular Affairs, etc.)",
                             "event2": "Applicants will be notified of the qualifications endorsement result within 20 working days (processing time might take longer if additional documents are requested)",
-                            "note1": "Applicants may be requested additional documents/information to support the consideration of the government agencies during this process",
-                            "note2": "Please be advised that any decision or judgment made by the government agency regarding the LTR Visa qualification endorsement result is considered final and binding",
+                            "situation1": "Applicants may be requested additional documents/information to support the consideration of the government agencies during this process",
+                            "situation2": "Please be advised that any decision or judgment made by the government agency regarding the LTR Visa qualification endorsement result is considered final and binding",
                             "request1": "Request of required documents by BOI in order to achieve the completeness of the application for qualification endorsement",
                             "request2": "Request of additional document by BOI and related government agencies to support the application for qualification endorsement",
-                            "requestnote1": "The BOI or related government agencies may request additional information / documents if it is found that the submitted information/ documents as per the abovementioned request are either not complete or valid",
-                            "requestnote2": "If any information / documents are not provided by applicants within 30 days after each request has been made, applications may be rejected for the lack of necessary information / documents to further process the applications"
+                            "requestrelate1": "The BOI or related government agencies may request additional information / documents if it is found that the submitted information/ documents as per the abovementioned request are either not complete or valid",
+                            "requestrelate2": "If any information / documents are not provided by applicants within 30 days after each request has been made, applications may be rejected for the lack of necessary information / documents to further process the applications"
                         }
                     ],
                     "issuance":[
@@ -251,7 +251,7 @@
                             "event2": "After the pre-approval request has been approved, the applicant will receive the notification of the qualifications endorsement letter so that he/she can make an appointment for LTR Visa issuance at the Royal Thai Embassies/the Royal Thai Consulate Generals overseas or One Stop Service for Visa and Work Permit Center (Bangkok) within 60 days from the issuance date of the letter",
                             "request1": "Request of additional information/documents related to “Pre-approval for visa issuance” by BOI",
                             "request2": "Request of additional information/documents related to “Pre-approval for visa issuance” by the immigration",
-                            "requestnote1": "The BOI or related government agencies may request additional information / documents if it is found that the submitted information/ documents as per the abovementioned request are either not complete or valid"                    
+                            "requestrelate1": "The BOI or related government agencies may request additional information / documents if it is found that the submitted information/ documents as per the abovementioned request are either not complete or valid"                    
                         }
                     ],
                     "workpermit":[
@@ -259,8 +259,8 @@
                             "event1": "LTR Visa holders who work for an entity in Thailand are required to apply for permission to work immediately after receiving LTR Visa or before employment with an entity in Thailand starts",
                             "event2": "After LTR Visa issuance, LTR Visa holders are required to apply for a work permit for their employment in Thailand via LTR Visa application system. The process takes 3-5 working days (processing time might take longer if additional documents are requested)",
                             "event3": "Once the work permit request is approved, LTR Visa holders can make an appointment to collect the work permit at the Department of Employment at One Stop Service Center for Visa and Work Permit, Chamchuri Square Building, Bangkok. The processing fee is 3,000 Baht per year to maintain the work permit",
-                            "note1": "While the work permit request is still in process, LTR Visa holders are temporarily allowed to work in Thailand without the work permit",
-                            "note2": "Work permit will not be granted for Work-From-Thailand Professionals holders since foreigners under this LTR Visa category are applying for the purpose of working for foreign employer abroad remotely from Thailand. Therefore, the person do not have Thai employers according to the digital work permit purpose"
+                            "situation1": "While the work permit request is still in process, LTR Visa holders are temporarily allowed to work in Thailand without the work permit",
+                            "situation2": "Work permit will not be granted for Work-From-Thailand Professionals holders since foreigners under this LTR Visa category are applying for the purpose of working for foreign employer abroad remotely from Thailand. Therefore, the person do not have Thai employers according to the digital work permit purpose"
                         }
                     ]
                 }
