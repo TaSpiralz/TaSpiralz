@@ -262,7 +262,7 @@
                         }
                     ],
                     "fee1": "The visa fee for the 10-year visa with multiple entry is 50,000 Baht per person in case of collecting LTR Visa in Thailand",
-                    "fee2": "In the case of collecting LTR Visa at the Royal Thai Embassies/the Royal Thai Consulate Generals overseas or E-visa, the fee may vary and considerably be more expensive than 50,000 THB per person per 10 years (The fee also depends on the currency exchange rate of each country)"
+                    "fee2": "In the case of collecting LTR Visa at the Royal Thai Embassies/the Royal Thai Consulate Generals overseas or E-visa, the fee may vary and considerably be more expensive than 50,000 THB per person per 10 years (The fee also depends on the currency exchange rate of each country)",
                     "fee3": "The work permit fee is 3,000 Baht per year to the maximum of 5 years"
                 }
             ]
@@ -274,6 +274,5 @@
     "contact3": "Website: https://ltr.boi.go.th/",
     "contact4": "Website: https://smart-visa.boi.go.th",
     "contact5": "Email: ltr@boi.go.th",
-    "contact6": "Email: smartvisa@boi.go.th"
-  
-  }
+    "contact6": "Email: smartvisa@boi.go.th" 
+}
