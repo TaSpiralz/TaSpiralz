@@ -8,7 +8,7 @@
             "introduce3": "Thailand presents itself as a very attractive location for “work from anywhere” professionals.",
             "introduce4": "This new visa program is expected to attract new foreign residents, technologies and talents contributing to domestic spending and investment while supporting economic growth.",
             "introduce5": "The Thai government has set the target of attracting one million wealthy or talented foreign residents into the country over the next five years.",
-            "type1": [
+            "maintype1": [
                 {
                     "name": "Wealthy Global Citizen",
                     "requirement1": "Financial status including domestic and foreign assets at least USD 1 million",
@@ -38,7 +38,7 @@
                     ],
                 }
             ],
-            "type2": [
+            "maintype2": [
                 {
                     "name": "Wealthy Pensioners",
                     "requirement1": [
@@ -72,7 +72,7 @@
                     ],
                 }
             ],
-            "type3": [
+            "maintype3": [
                 {
                     "name": "Work-from-Thailand Professionals",
                     "requirement1": [
@@ -116,7 +116,7 @@
                     "benefit5": "tax exemption from oversea income"
                 }
             ],
-            "type4": [
+            "maintype4": [
                 {
                     "name": "Highly-Skilled Professionals",
                     "requirement1": [
@@ -204,7 +204,7 @@
                     ]
                 }
             ],
-            "type5":[
+            "suptype":[
                 {
                     "name": "Dependents",
                     "limit": "Maximum 4 dependents in total per one LTR visa holder",
