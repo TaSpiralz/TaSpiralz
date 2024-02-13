@@ -1,7 +1,8 @@
 {
     "general": "I am a bot that helps provide Smart visa and LTR visa information.",
-    "visa1": "Smart Visa" [
+    "visa1": [
         {
+            "name": "Smart Visa"
             "type1": "Smart T (Talent)",
             "type2": "Smart I (Investor)",
             "type3": "Smart E (Executive)",
@@ -9,10 +10,12 @@
             "type5": "Smart O (Other)"
         }
     ],
-    "visa2": "LTR visa"[
+    "visa2": [
         {
-            "type1": "Wealthy Global Citizen"[
+            "name":  "LTR visa"
+            "type1":[
                 {
+                    "name": "Wealthy Global Citizen"
                     "requirement1": "At least USD 1 million in assets (This include investment in Thailand)",
                     "requirement2": "Personal income of a minimum of USD 80,000/ year in the past two years",
                     "requirement3": "Investment of at least USD 500,000 in Thai government bonds, foreign direct investment, or Thai property",
@@ -42,8 +45,45 @@
                     "benefit7": "Permission to work in Thailand (Digital Work Permit)"
                 }
             ],
-            "type3": "Work-from-Thailand Professionals"
-            "type4": "Highly-Skilled Professionals",
+            "type3": "Work-from-Thailand Professionals"[
+                {
+                    "requirement1": "Personal income of a minimum of USD 80,000/year in the past two years or In case of personal income below USD 80,000/year but no less than USD 40,000/year in the past two years, applicants must have a Master’s degree or above or own intellectual property or receive Series A funding",
+                    "requirement2": "Current employer : Public company on a stock exchange or private company in operation for at least three years with combined revenue at least USD 150 million in the last three years and must not conduct any business in Thailand",
+                    "requirement3": "At least 5 years of work experience in the relevant fields of the current employment over the past 10 years",
+                    "requirement4": "Health insurance with at least USD 50,000 coverage or social security benefits insuring treatment in Thailand or at least USD 100,000 deposit",
+
+                    "benefit1": "10 years renewable visa",
+                    "benefit2": "90-day report extended to 1-year report and exemption of re-entry permit",
+                    "benefit3": "Fast Track Service at International Airports in Thailand",
+                    "benefit4": "Immigration and work permit facilitation services at One Stop Service Center for Visa and Work Permit",
+                    "benefit5": "tax exemption from oversea income"
+                }
+            ],
+            "type4": "Highly-Skilled Professionals"[
+                {
+                    "requirement1": "Personal income of a minimum of USD 80,000/year in the past two years or In case of personal income below USD 80,000/year but no less than USD 40,000/year in the past two years or before retirement, applicants must have a Master’s degree or above in science and technology or special expertise relevant to the job assignment in Thailand or No minimum personal income for professionals working for Thai government agencies",
+                    "requirement2": "Current employer :Business in any targeted industries / Higher education institution, research institution, specialized training institution, or Thai government agency (any conduct business in Thailand must be related to target industry)",
+                    "requirement3": "At least 5 years of work experience in the targeted industries except for applicants with a PhD or (above in the relevant fields of the targeted industries or applicants working for Thai government agencies)",
+                    "requirement4": "Health insurance with at least USD 50,000 coverage or social security benefits insuring treatment in Thailand or at least USD 100,000 deposit",
+
+                    "target"
+                    "industry1": "Automotive Industry",
+                    "industry2": "Automotive Industry",
+                    "industry3": "Automotive Industry",
+                    "industry4": "Automotive Industry",
+                    "industry5": "Automotive Industry",
+                    "industry6": "Automotive Industry",
+                    "industry7": "Automotive Industry",
+                    "industry8": "Automotive Industry",
+                    "industry9": "Automotive Industry",
+                    "industry10": "Automotive Industry",
+                    "industry11": "Automotive Industry",
+                    "industry12": "Automotive Industry",
+                    "industry13": "Automotive Industry",
+                    "industry14": "Automotive Industry",
+                    "industry15": "Automotive Industry",
+                }
+            ],
             "type5": "Spouse and dependents"
         }
     ],
