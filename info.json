@@ -244,8 +244,9 @@
                     ],
                     "issuance":[
                         {
-                            "event1": "Once approved, qualified applicants will be notified to submit additional information and documents for the pre-approval process, which takes 1-3 working days (processing time might take longer if additional documents are requested)",
+                            "event1": "Once approved, qualified applicants will be notified to submit additional information and documents for the pre-approval process",
                             "event2": "After the pre-approval request has been approved, the applicant will receive the notification of the qualifications endorsement letter so that he/she can make an appointment for LTR Visa issuance at the Royal Thai Embassies/the Royal Thai Consulate Generals overseas or One Stop Service for Visa and Work Permit Center (Bangkok) within 60 days from the issuance date of the letter",
+                            "time": "Pre-approval takes 1-3 working days (processing time might take longer if additional documents are requested)",
                             "subevent1": "Request of additional information/documents related to “Pre-approval for visa issuance” by BOI",
                             "subevent2": "Request of additional information/documents related to “Pre-approval for visa issuance” by the immigration",
                             "request": "The BOI or related government agencies may request additional information / documents if it is found that the submitted information/ documents as per the abovementioned request are either not complete or valid"                    
