@@ -204,7 +204,7 @@
                     ]
                 }
             ],
-            "suptype":[
+            "subtype":[
                 {
                     "name": "Dependents",
                     "limit": "Maximum 4 dependents in total per one LTR visa holder",
@@ -216,7 +216,13 @@
                             "choice3": "3.A deposit balance of at least USD 100,000 in a bank account in Thailand or abroad retained for at least 12 months as of the date of application"
                         }
                     ],
-                    "requirement3": "Not possess prohibited characteristics pursuant to the laws on immigration" 
+                    "requirement3": "Not possess prohibited characteristics pursuant to the laws on immigration"
+                    "benefit1": "10 years renewable visa",
+                    "benefit2": "Exemption from 4 Thais : 1 foreigner employment requirement ratio",
+                    "benefit3": "90-day report extended to 1-year report and exemption of re-entry permit",
+                    "benefit4": "Fast Track Service at International Airports in Thailand",
+                    "benefit5": "Immigration and work permit facilitation services at One Stop Service Center for Visa and Work Permit",
+                    "benefit6": "Permission to work in Thailand (Digital Work Permit)"
                 }
             ],
         }
