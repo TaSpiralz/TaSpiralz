@@ -260,12 +260,12 @@
                             "subevent1": "While the work permit request is still in process, LTR Visa holders are temporarily allowed to work in Thailand without the work permit",
                             "subevent2": "Work permit will not be granted for Work-From-Thailand Professionals holders since foreigners under this LTR Visa category are applying for the purpose of working for foreign employer abroad remotely from Thailand. Therefore, the person do not have Thai employers according to the digital work permit purpose"
                         }
-                    ],
-                    "fee1": "The visa fee for the 10-year visa with multiple entry is 50,000 Baht per person in case of collecting LTR Visa in Thailand",
-                    "fee2": "In the case of collecting LTR Visa at the Royal Thai Embassies/the Royal Thai Consulate Generals overseas or E-visa, the fee may vary and considerably be more expensive than 50,000 THB per person per 10 years (The fee also depends on the currency exchange rate of each country)",
-                    "fee3": "The work permit fee is 3,000 Baht per year to the maximum of 5 years"
+                    ]
                 }
-            ]
+            ],
+            "fee1": "The visa fee for the 10-year visa with multiple entry is 50,000 Baht per person in case of collecting LTR Visa in Thailand",
+            "fee2": "In the case of collecting LTR Visa at the Royal Thai Embassies/the Royal Thai Consulate Generals overseas or E-visa, the fee may vary and considerably be more expensive than 50,000 THB per person per 10 years (The fee also depends on the currency exchange rate of each country)",
+            "fee3": "The work permit fee is 3,000 Baht per year to the maximum of 5 years"
         }
     ],
     
