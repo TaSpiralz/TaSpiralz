@@ -11,9 +11,9 @@
                     "requirement3": "Investment of at least USD 500,000 in the name of the applicant",
                     "requirement4":[
                         {
-                            "choice1": "A health insurance policy covering medical expenses in Thailand of at least USD 50,000 with a remaining coverage period of at least 10 months as of the date of the letter of qualification endorsement issuance",
-                            "choice2": "Social security benefits insuring treatment in Thailand",
-                            "choice3": "A deposit balance of at least USD 100,000 in a bank account in Thailand or abroad retained for at least 12 months as of the date of application"
+                            "choice1": "1.A health insurance policy covering medical expenses in Thailand of at least USD 50,000 with a remaining coverage period of at least 10 months as of the date of the letter of qualification endorsement issuance",
+                            "choice2": "2.Social security benefits insuring treatment in Thailand",
+                            "choice3": "3.A deposit balance of at least USD 100,000 in a bank account in Thailand or abroad retained for at least 12 months as of the date of application"
                         }
                     ],
                     "requirement5": "Not possess prohibited characteristics pursuant to the laws on immigration",
@@ -31,15 +31,15 @@
                     "name": "Wealthy Pensioners",
                     "requirement1": [
                         {
-                            "choice1": "Personal income of at least USD 80,000 per year at the time of application",
-                            "choice2": "In case of personal income below USD 80,000 per year but no less than USD 40,000 per year at the time of application, an applicant must invest at least USD 250,000"
+                            "choice1": "1.Personal income of at least USD 80,000 per year at the time of application",
+                            "choice2": "2.In case of personal income below USD 80,000 per year but no less than USD 40,000 per year at the time of application, an applicant must invest at least USD 250,000"
                         }
                     ],
                     "requirement2": [
                         {
-                            "choice1": "A health insurance policy covering medical expenses in Thailand of at least USD 50,000 with a remaining coverage period of at least 10 months as of the date of the letter of qualification endorsement issuance",
-                            "choice2": "Social security benefits insuring treatment in Thailand",
-                            "choice3": "A deposit balance of at least USD 100,000 in a bank account in Thailand or abroad retained for at least 12 months as of the date of application"
+                            "choice1": "1.A health insurance policy covering medical expenses in Thailand of at least USD 50,000 with a remaining coverage period of at least 10 months as of the date of the letter of qualification endorsement issuance",
+                            "choice2": "2.Social security benefits insuring treatment in Thailand",
+                            "choice3": "3.A deposit balance of at least USD 100,000 in a bank account in Thailand or abroad retained for at least 12 months as of the date of application"
                         }
                     ],
                     "requirement3": "Be 50 years old or over and retired at the time of application",
@@ -58,13 +58,13 @@
                     "name": "Work-from-Thailand Professionals",
                     "requirement1": [
                         {
-                            "choice1": "An average personal income of at least USD 80,000 per year for two years before the date of application",
+                            "choice1": "1.An average personal income of at least USD 80,000 per year for two years before the date of application",
                             "choice2": [
                                 {
-                                    "status": "In case of an average personal income below USD 80,000 per year but no less than USD 40,000 per year in two years before the date of application",
-                                    "subchoice1": "Have a Master’s degree or higher",
-                                    "subchoice2": "Own intellectual property",
-                                    "subchoice3": "Receive Series A funding (financing of a start-up during the growth phase after the seed-funding round of at least USD 1 million)"
+                                    "status": "2.In case of an average personal income below USD 80,000 per year but no less than USD 40,000 per year in two years before the date of application",
+                                    "subchoice1": "1.Have a Master’s degree or higher",
+                                    "subchoice2": "2.Own intellectual property",
+                                    "subchoice3": "3.Receive Series A funding (financing of a start-up during the growth phase after the seed-funding round of at least USD 1 million)"
                                 }
                             ]
                         }
@@ -75,8 +75,8 @@
                             [
                                 {
                                     "status": "Must not conduct any business in Thailand",
-                                    "choice1": "Public company on any stock exchange in any country",
-                                    "choice2": "private company in operation for at least three years with combined revenue at least USD 150 million over 3 years as of the date of application"
+                                    "choice1": "1.Public company on any stock exchange in any country",
+                                    "choice2": "2.private company in operation for at least three years with combined revenue at least USD 150 million over 3 years as of the date of application"
                                 }
                             ]
                         }
@@ -84,9 +84,9 @@
                     "requirement3": "At least 5 years of work experience in the relevant fields of the current employment over the past 10 years as of the date of application",
                     "requirement4": [
                         {
-                            "choice1": "A health insurance policy covering medical expenses in Thailand of at least USD 50,000 with a remaining coverage period of at least 10 months as of the date of the letter of qualification endorsement issuance",
-                            "choice2": "Social security benefits insuring treatment in Thailand",
-                            "choice3": "A deposit balance of at least USD 100,000 in a bank account in Thailand or abroad retained for at least 12 months as of the date of application"
+                            "choice1": "1.A health insurance policy covering medical expenses in Thailand of at least USD 50,000 with a remaining coverage period of at least 10 months as of the date of the letter of qualification endorsement issuance",
+                            "choice2": "2.Social security benefits insuring treatment in Thailand",
+                            "choice3": "3.A deposit balance of at least USD 100,000 in a bank account in Thailand or abroad retained for at least 12 months as of the date of application"
                         }
                     ],
                     "requirement5": "Not possess prohibited characteristics pursuant to the laws on immigration",
@@ -102,13 +102,13 @@
                     "name": "Highly-Skilled Professionals",
                     "requirement1": [
                         {
-                            "choice1": "An average personal income of at least USD 80,000 per year for two years before the date of application",
-                            "choice2": "No minimum personal income for professionals working for Thai government agencies",
+                            "choice1": "1.An average personal income of at least USD 80,000 per year for two years before the date of application",
+                            "choice2": "2.No minimum personal income for professionals working for Thai government agencies",
                             "choice3": [
                                 {
-                                    "status": "In case of personal income below an average personal income of at least USD 40,000 per year in two years before the date of application",
-                                    "subchoice1": "Have a Master’s degree or equivalent or higher in science and technology",
-                                    "subchoice2": "Special expertise relevant to the job assignment in Thailand"
+                                    "status": "3.In case of personal income below an average personal income of at least USD 40,000 per year in two years before the date of application",
+                                    "subchoice1": "1.Have a Master’s degree or equivalent or higher in science and technology",
+                                    "subchoice2": "2.Special expertise relevant to the job assignment in Thailand"
                                 }
                             ]
                         }
@@ -118,9 +118,9 @@
                             "employer": [
                                 {
                                     "status": "Conduct any business in Thailand",
-                                    "choice1": "Business in any targeted industries",
-                                    "choice2": "Higher education institution, research institution, specialized training institution",
-                                    "choice3": "Thai government agency"
+                                    "choice1": "1.Business in any targeted industries",
+                                    "choice2": "2.Higher education institution, research institution, specialized training institution",
+                                    "choice3": "3.Thai government agency"
                                 }
                             ]
                         }
@@ -130,17 +130,17 @@
                             "experience": "At least 5 years of work experience in the targeted industries over the past 10 years as of the date of application",
                             "exception": [
                                 {
-                                    "choice1": "Have a PhD or higher in the relevant fields of the targeted industries",
-                                    "choice2": "Working for Thai government agencies"
+                                    "choice1": "1.Have a PhD or higher in the relevant fields of the targeted industries",
+                                    "choice2": "2.Working for Thai government agencies"
                                 }
                             ]
                         }
                     ],
                     "requirement4": [
                         {
-                            "choice1": "A health insurance policy covering medical expenses in Thailand of at least USD 50,000 with a remaining coverage period of at least 10 months as of the date of the letter of qualification endorsement issuance",
-                            "choice2": "Social security benefits insuring treatment in Thailand",
-                            "choice3": "A deposit balance of at least USD 100,000 in a bank account in Thailand or abroad retained for at least 12 months as of the date of application"
+                            "choice1": "1.A health insurance policy covering medical expenses in Thailand of at least USD 50,000 with a remaining coverage period of at least 10 months as of the date of the letter of qualification endorsement issuance",
+                            "choice2": "2.Social security benefits insuring treatment in Thailand",
+                            "choice3": "3.A deposit balance of at least USD 100,000 in a bank account in Thailand or abroad retained for at least 12 months as of the date of application"
                         }
                     ],
                     "requirement5": "Not possess prohibited characteristics pursuant to the laws on immigration",
@@ -192,9 +192,9 @@
                     "requirement1": "Spouse and children under 20 years old relate to LTR visa holders",
                     "requirement2": [
                         {
-                            "choice1": "A health insurance policy covering medical expenses in Thailand of at least USD 50,000 with a remaining coverage period of at least 10 months as of the date of the letter of qualification endorsement issuance",
-                            "choice2": "Social security benefits insuring treatment in Thailand",
-                            "choice3": "A deposit balance of at least USD 100,000 in a bank account in Thailand or abroad retained for at least 12 months as of the date of application"
+                            "choice1": "1.A health insurance policy covering medical expenses in Thailand of at least USD 50,000 with a remaining coverage period of at least 10 months as of the date of the letter of qualification endorsement issuance",
+                            "choice2": "2.Social security benefits insuring treatment in Thailand",
+                            "choice3": "3.A deposit balance of at least USD 100,000 in a bank account in Thailand or abroad retained for at least 12 months as of the date of application"
                         }
                     ],
                     "requirement3": "Not possess prohibited characteristics pursuant to the laws on immigration" 
@@ -202,9 +202,9 @@
             ],
             "investment": [
                 {
-                    "invest1": "Thai Government bonds issued by the Ministry of Finance with a remaining time to maturity of at least 5 years as of the date of application",
-                    "invest2": "Direct investment in a private limited company or public limited company or investment in a venture capital company or a private equity trust company registered with the Securities and Exchange Commission or certified by the relevant authorities",
-                    "invest3": "Thai property"
+                    "invest1": "1.Thai Government bonds issued by the Ministry of Finance with a remaining time to maturity of at least 5 years as of the date of application",
+                    "invest2": "2.Direct investment in a private limited company or public limited company or investment in a venture capital company or a private equity trust company registered with the Securities and Exchange Commission or certified by the relevant authorities",
+                    "invest3": "3.Thai property"
                 }
             ],
         }
