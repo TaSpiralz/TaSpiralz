@@ -1,7 +1,9 @@
 {
     "general": "I am a bot that helps provide Smart visa and LTR visa information.",
     "visa1": [
-        title: LTR visa (Long-Term Residents visa Thailand)
+        {
+        "title": LTR visa (Long-Term Residents visa Thailand)
+        }
     ]
     
     "contact1": "Expatriate Services Division One Stop Service Center for Visa and Work Permit (OSS) 18th floor, Chamchuri Square Building (MRT Sam Yan Station) Phayathai Road, Pathumwan Bangkok 10330",
