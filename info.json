@@ -24,6 +24,13 @@
                     "benefit5": "Immigration and work permit facilitation services at One Stop Service Center for Visa and Work Permit",
                     "benefit6": "tax exemption from oversea income",
                     "benefit7": "Permission to work in Thailand (Digital Work Permit)"
+                    "investment": [
+                        {
+                            "invest1": "1.Thai Government bonds issued by the Ministry of Finance with a remaining time to maturity of at least 5 years as of the date of application",
+                            "invest2": "2.Direct investment in a private limited company or public limited company or investment in a venture capital company or a private equity trust company registered with the Securities and Exchange Commission or certified by the relevant authorities",
+                            "invest3": "3.Thai property"
+                        }
+                    ],
                 }
             ],
             "type2": [
@@ -51,6 +58,13 @@
                     "benefit5": "Immigration and work permit facilitation services at One Stop Service Center for Visa and Work Permit",
                     "benefit6": "tax exemption from oversea income",
                     "benefit7": "Permission to work in Thailand (Digital Work Permit)"
+                    "investment": [
+                        {
+                            "invest1": "1.Thai Government bonds issued by the Ministry of Finance with a remaining time to maturity of at least 5 years as of the date of application",
+                            "invest2": "2.Direct investment in a private limited company or public limited company or investment in a venture capital company or a private equity trust company registered with the Securities and Exchange Commission or certified by the relevant authorities",
+                            "invest3": "3.Thai property"
+                        }
+                    ],
                 }
             ],
             "type3": [
@@ -198,13 +212,6 @@
                         }
                     ],
                     "requirement3": "Not possess prohibited characteristics pursuant to the laws on immigration" 
-                }
-            ],
-            "investment": [
-                {
-                    "invest1": "1.Thai Government bonds issued by the Ministry of Finance with a remaining time to maturity of at least 5 years as of the date of application",
-                    "invest2": "2.Direct investment in a private limited company or public limited company or investment in a venture capital company or a private equity trust company registered with the Securities and Exchange Commission or certified by the relevant authorities",
-                    "invest3": "3.Thai property"
                 }
             ],
         }
