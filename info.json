@@ -6,18 +6,6 @@
         "type1":[
                 {
                     "name": "Wealthy Global Citizen"
-                    "requirement1": "At least USD 1 million in assets (This include investment in Thailand)",
-                    "requirement2": "Personal income of a minimum of USD 80,000/ year in the past two years",
-                    "requirement3": "Investment of at least USD 500,000 in Thai government bonds, foreign direct investment, or Thai property",
-                    "requirement4": "Health insurance with at least USD 50,000 coverage or social security benefits insuring treatment in Thailand or at least USD 100,000 deposit",
-
-                    "benefit1": "10 years renewable visa",
-                    "benefit2": "Exemption from 4 Thais : 1 foreigner employment requirement ratio",
-                    "benefit3": "90-day report extended to 1-year report and exemption of re-entry permit",
-                    "benefit4": "Fast Track Service at International Airports in Thailand",
-                    "benefit5": "Immigration and work permit facilitation services at One Stop Service Center for Visa and Work Permit",
-                    "benefit6": "tax exemption from oversea income",
-                    "benefit7": "Permission to work in Thailand (Digital Work Permit)"
                 }
             ]
         }
