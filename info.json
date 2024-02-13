@@ -208,8 +208,9 @@
                 {
                     "name": "Dependents",
                     "limit": "Maximum 4 dependents in total per one LTR visa holder",
-                    "requirement1": "Spouse and children under 20 years old relate to LTR visa holders",
-                    "requirement2": [
+                    "requirement1": "Must have main LTR visa holders",
+                    "requirement2": "Spouse and children under 20 years old relate to LTR visa holders",
+                    "requirement3": [
                         {
                             "choice1": "1.A health insurance policy covering medical expenses in Thailand of at least USD 50,000 with a remaining coverage period of at least 10 months as of the date of the letter of qualification endorsement issuance",
                             "choice2": "2.Social security benefits insuring treatment in Thailand",
